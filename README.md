@@ -1,14 +1,15 @@
 # python-parse-csv
 Parse a CSV file with Python.
 
-Install pandas and matplotlib, run the script:
+## Configuration
 
+Install pandas and matplotlib, run the script:
 ```
 pip3 install pandas matplotlib
 python3 main.py
 ```
 
-Jupyter Notebook
+## Jupyter Notebook
 
 Install Jupyter extension in VSCode
 

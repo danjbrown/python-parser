@@ -12,7 +12,7 @@ Jupyter Notebook
 
 Install Jupyter extension in VSCode
 
-From the Command Palette (⇧⌘P) run and save the file as main.ipunb:
+From the Command Palette (⇧⌘P) run and save the file as main.ipynb:
 ```
 Create: New Jupyter Notebook
 ```

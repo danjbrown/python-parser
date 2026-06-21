@@ -1,7 +1,7 @@
 # python-parse-csv
 Parse a CSV file with Python.
 
-Run the CSV parser
+Install pandas and matplotlib, run the script:
 
 ```
 pip3 install pandas matplotlib
@@ -12,7 +12,7 @@ Jupyter Notebook
 
 Install Jupyter extension in VSCode
 
-From the Command Palette (⇧⌘P) run and save the file as main.ipynb:
+From the Command Palette (⇧⌘P) create a new Jupyter Notebook and save the file as main.ipynb:
 ```
 Create: New Jupyter Notebook
 ```

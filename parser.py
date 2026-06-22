@@ -41,9 +41,9 @@ class Parser:
         print(df.loc[df.isna().any(axis="columns")])
 
         print("Adding missing low price using mean low price...")
-        lowPriceMean = df["low_price"].mean()
-        # df.loc[5, 'low_price'] = round(lowPriceMean, 2)
-        self.custom_fillna(df, 'low_price', round(lowPriceMean, 2))
+        mean_low_price = df["low_price"].mean()
+        # df.loc[5, 'low_price'] = round(mean_low_price, 2)
+        self.custom_fillna(df, 'low_price', round(mean_low_price, 2))
 
         # Remove duplicates
         # df.loc[df.duplicated(keep=False)]
@@ -55,9 +55,8 @@ class Parser:
     
         return df
     
-    def custom_fillna(self, df, columnName, fillValue):
-        s = df[columnName];
+    def custom_fillna(self, df, column_name, fill_value):
+        s = df[column_name];
         for i in range(len(s)):
             if pd.isna(s[i]):
-                s[i] = fillValue
-                df.loc[5, 'low_price'] = fillValue;
+                df.loc[5, 'low_price'] = fill_value;

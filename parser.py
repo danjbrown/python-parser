@@ -7,10 +7,10 @@ class Parser:
 
     def parse_csv(self):
 
-        parsed_data = pd.read_csv(self.source_filename, parse_dates=["Date"]).convert_dtypes()
+        df = pd.read_csv(self.source_filename, parse_dates=["Date"]).convert_dtypes()
 
-        print("First 5 Rows:")
-        print(parsed_data.head())
+        print("First 10 rows:")
+        print(df.head(10))
 
         new_column_names = {
             "Date": "date",
@@ -21,29 +21,31 @@ class Parser:
             "Volume": "volume",
         }
 
-        data = parsed_data.rename(columns=new_column_names)
+        # rename columns
+        df.rename(columns=new_column_names, inplace = True)
+
+        # drop null values in original data frame
+        # df.dropna(inplace = True)
 
         print("Columns:")
-        print(data.columns)
-
-        print("First 5 rows:")
-        print(data.head())
+        print(df.columns)
 
         print("Check for missing data:")
-        print(data.info())
+        print(df.info())
 
-        print("Print location of missing daat:")
-        print(data.loc[data.isna().any(axis="columns")])
+        print("Print location of missing data:")
+        print(df.loc[df.isna().any(axis="columns")])
 
         print("Adding missing data...")
-        data = data.rename(columns=new_column_names).combine_first(pd.DataFrame({"low_price": {3: 710032.92}}))
-
-        print("First 5 corrected rows:")
-        print(data.head())
+        lowPriceMean = df["low_price"].mean()
+        df.loc[5, 'low_price'] = lowPriceMean
 
         # Remove duplicates
-        data.loc[data.duplicated(keep=False)]
+        df.loc[df.duplicated(keep=False)]
 
-        data = data.drop_duplicates()
+        df.drop_duplicates(inplace = True)
 
-        return data
+        print("First 10 corrected rows:")
+        print(df.head(10))
+
+        return df

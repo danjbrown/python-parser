@@ -7,7 +7,7 @@ class Parser:
         self.source_type='csv'
 
     def parse(self):
-        
+
         if self.source_type == "csv":
             df = pd.read_csv(self.source_filename, parse_dates=["Date"]).convert_dtypes()
         else:
@@ -55,8 +55,8 @@ class Parser:
     
         return df
     
-    def custom_fillna(self, df, field, fillValue):
-        s = df[field];
+    def custom_fillna(self, df, columnName, fillValue):
+        s = df[columnName];
         for i in range(len(s)):
             if pd.isna(s[i]):
                 s[i] = fillValue

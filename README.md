@@ -1,5 +1,5 @@
-# python-parse-csv
-Parse a CSV or JSON file with Python, fix missing data, and output to a new file.
+# python-parser
+Parse a CSV or JSON file with Python pandas, fix missing data, and output to a new file.
 
 ## Set-up
 
@@ -19,12 +19,14 @@ python3 main.py
 
 Install Jupyter extension in VSCode
 
+Clean the data and create a scatter plot of low price data:
+```
+python3 main.ipynb
+```
+
+## Create a new Jupyter Notebook
+
 From the Command Palette (⇧⌘P) create a new Jupyter Notebook and save the file as main.ipynb:
 ```
 Create: New Jupyter Notebook
-```
-
-Clean the data and create a scatter plot of price data:
-```
-python3 main.ipynb
 ```

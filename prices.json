@@ -1,0 +1,842 @@
+[
+  {
+    "Date": "02-Jan-2026",
+    "Open Price": 9931.29,
+    "Close Price": 9951.14,
+    "High Price": 10046.25,
+    "Low Price": 9930.76,
+    "Volume": 604307136
+  },
+  {
+    "Date": "02-Jan-2026",
+    "Open Price": 9931.29,
+    "Close Price": 9951.14,
+    "High Price": 10046.25,
+    "Low Price": 9930.76,
+    "Volume": 604307136
+  },
+  {
+    "Date": "02-Jan-2026",
+    "Open Price": 9931.29,
+    "Close Price": 9951.14,
+    "High Price": 10046.25,
+    "Low Price": 9930.76,
+    "Volume": 604307136
+  },
+  {
+    "Date": "05-Jan-2026",
+    "Open Price": 9951.45,
+    "Close Price": 10004.57,
+    "High Price": 10022.05,
+    "Low Price": 9951.45,
+    "Volume": 708341696
+  },
+  {
+    "Date": "06-Jan-2026",
+    "Open Price": 10004.4,
+    "Close Price": 10122.73,
+    "High Price": 10158.41,
+    "Low Price": 10003.77,
+    "Volume": 701826240
+  },
+  {
+    "Date": "07-Jan-2026",
+    "Open Price": 10122.76,
+    "Close Price": 10048.21,
+    "High Price": 10124.75,
+    "Low Price": null,
+    "Volume": 694476352
+  },
+  {
+    "Date": "08-Jan-2026",
+    "Open Price": 10048.36,
+    "Close Price": 10044.69,
+    "High Price": 10059.42,
+    "Low Price": 9995.91,
+    "Volume": 746522368
+  },
+  {
+    "Date": "09-Jan-2026",
+    "Open Price": 10044.7,
+    "Close Price": 10124.6,
+    "High Price": 10135.7,
+    "Low Price": 10032.92,
+    "Volume": 711367424
+  },
+  {
+    "Date": "12-Jan-2026",
+    "Open Price": 10124.47,
+    "Close Price": 10140.7,
+    "High Price": 10149.71,
+    "Low Price": 10089.93,
+    "Volume": 636495808
+  },
+  {
+    "Date": "13-Jan-2026",
+    "Open Price": 10140.7,
+    "Close Price": 10137.35,
+    "High Price": 10152.48,
+    "Low Price": 10097.14,
+    "Volume": 936639872
+  },
+  {
+    "Date": "14-Jan-2026",
+    "Open Price": 10137.31,
+    "Close Price": 10184.35,
+    "High Price": 10184.35,
+    "Low Price": 10135.35,
+    "Volume": 678196864
+  },
+  {
+    "Date": "15-Jan-2026",
+    "Open Price": 10184.39,
+    "Close Price": 10238.94,
+    "High Price": 10250.45,
+    "Low Price": 10173.53,
+    "Volume": 1026439296
+  },
+  {
+    "Date": "16-Jan-2026",
+    "Open Price": 10238.94,
+    "Close Price": 10235.29,
+    "High Price": 10257.75,
+    "Low Price": 10212.78,
+    "Volume": 864893824
+  },
+  {
+    "Date": "19-Jan-2026",
+    "Open Price": 10235.31,
+    "Close Price": 10195.35,
+    "High Price": 10235.31,
+    "Low Price": 10166.27,
+    "Volume": 622507200
+  },
+  {
+    "Date": "20-Jan-2026",
+    "Open Price": 10195.16,
+    "Close Price": 10126.78,
+    "High Price": 10195.16,
+    "Low Price": 10050.22,
+    "Volume": 912857600
+  },
+  {
+    "Date": "21-Jan-2026",
+    "Open Price": 10126.88,
+    "Close Price": 10138.09,
+    "High Price": 10161.54,
+    "Low Price": 10093.67,
+    "Volume": 748346752
+  },
+  {
+    "Date": "22-Jan-2026",
+    "Open Price": 10138.09,
+    "Close Price": 10150.05,
+    "High Price": 10226.54,
+    "Low Price": 10138.09,
+    "Volume": 776843840
+  },
+  {
+    "Date": "23-Jan-2026",
+    "Open Price": 10150.05,
+    "Close Price": 10143.44,
+    "High Price": 10184.14,
+    "Low Price": 10131.83,
+    "Volume": 607127936
+  },
+  {
+    "Date": "26-Jan-2026",
+    "Open Price": 10143.14,
+    "Close Price": 10148.85,
+    "High Price": 10184.9,
+    "Low Price": 10125.28,
+    "Volume": 650188608
+  },
+  {
+    "Date": "27-Jan-2026",
+    "Open Price": 10148.98,
+    "Close Price": 10207.8,
+    "High Price": 10228.16,
+    "Low Price": 10147.48,
+    "Volume": 746946688
+  },
+  {
+    "Date": "28-Jan-2026",
+    "Open Price": 10207.63,
+    "Close Price": 10154.43,
+    "High Price": 10225.52,
+    "Low Price": 10144.65,
+    "Volume": 776019584
+  },
+  {
+    "Date": "29-Jan-2026",
+    "Open Price": 10154.18,
+    "Close Price": 10171.76,
+    "High Price": 10277.72,
+    "Low Price": 10154.17,
+    "Volume": 727952000
+  },
+  {
+    "Date": "30-Jan-2026",
+    "Open Price": 10171.8,
+    "Close Price": 10223.54,
+    "High Price": 10234.01,
+    "Low Price": 10141.61,
+    "Volume": 826892160
+  },
+  {
+    "Date": "02-Feb-2026",
+    "Open Price": 10223.72,
+    "Close Price": 10341.56,
+    "High Price": 10345.48,
+    "Low Price": 10145.36,
+    "Volume": 921636544
+  },
+  {
+    "Date": "03-Feb-2026",
+    "Open Price": 10341.32,
+    "Close Price": 10314.59,
+    "High Price": 10373.28,
+    "Low Price": 10232.19,
+    "Volume": 863757376
+  },
+  {
+    "Date": "04-Feb-2026",
+    "Open Price": 10314.5,
+    "Close Price": 10402.34,
+    "High Price": 10481.54,
+    "Low Price": 10307.97,
+    "Volume": 924871424
+  },
+  {
+    "Date": "05-Feb-2026",
+    "Open Price": 10402.55,
+    "Close Price": 10309.22,
+    "High Price": 10404.03,
+    "Low Price": 10289.29,
+    "Volume": 1255052416
+  },
+  {
+    "Date": "06-Feb-2026",
+    "Open Price": 10309.05,
+    "Close Price": 10369.75,
+    "High Price": 10380.52,
+    "Low Price": 10253.15,
+    "Volume": 734227200
+  },
+  {
+    "Date": "09-Feb-2026",
+    "Open Price": 10369.83,
+    "Close Price": 10386.23,
+    "High Price": 10420.27,
+    "Low Price": 10315.99,
+    "Volume": 1012882944
+  },
+  {
+    "Date": "10-Feb-2026",
+    "Open Price": 10386.22,
+    "Close Price": 10353.84,
+    "High Price": 10402.19,
+    "Low Price": 10330.81,
+    "Volume": 987516672
+  },
+  {
+    "Date": "11-Feb-2026",
+    "Open Price": 10353.82,
+    "Close Price": 10472.11,
+    "High Price": 10493.83,
+    "Low Price": 10353.8,
+    "Volume": 924867968
+  },
+  {
+    "Date": "12-Feb-2026",
+    "Open Price": 10472.17,
+    "Close Price": 10402.44,
+    "High Price": 10535.76,
+    "Low Price": 10391.98,
+    "Volume": 957052544
+  },
+  {
+    "Date": "13-Feb-2026",
+    "Open Price": 10402.48,
+    "Close Price": 10446.35,
+    "High Price": 10454.54,
+    "Low Price": 10380.87,
+    "Volume": 1393053824
+  },
+  {
+    "Date": "16-Feb-2026",
+    "Open Price": 10446.25,
+    "Close Price": 10473.69,
+    "High Price": 10490.09,
+    "Low Price": 10446.25,
+    "Volume": 523718176
+  },
+  {
+    "Date": "17-Feb-2026",
+    "Open Price": 10474.04,
+    "Close Price": 10556.17,
+    "High Price": 10556.17,
+    "Low Price": 10472.66,
+    "Volume": 643761280
+  },
+  {
+    "Date": "18-Feb-2026",
+    "Open Price": 10555.99,
+    "Close Price": 10686.18,
+    "High Price": 10715.77,
+    "Low Price": 10553.95,
+    "Volume": 1077007616
+  },
+  {
+    "Date": "19-Feb-2026",
+    "Open Price": 10686.37,
+    "Close Price": 10627.04,
+    "High Price": 10687.36,
+    "Low Price": 10597.58,
+    "Volume": 1098862848
+  },
+  {
+    "Date": "20-Feb-2026",
+    "Open Price": 10627.04,
+    "Close Price": 10686.89,
+    "High Price": 10745.76,
+    "Low Price": 10626.69,
+    "Volume": 793428608
+  },
+  {
+    "Date": "23-Feb-2026",
+    "Open Price": 10686.75,
+    "Close Price": 10684.74,
+    "High Price": 10738.65,
+    "Low Price": 10660.03,
+    "Volume": 695518400
+  },
+  {
+    "Date": "24-Feb-2026",
+    "Open Price": 10684.85,
+    "Close Price": 10680.59,
+    "High Price": 10717.72,
+    "Low Price": 10645.82,
+    "Volume": 972223936
+  },
+  {
+    "Date": "25-Feb-2026",
+    "Open Price": 10680.65,
+    "Close Price": 10806.41,
+    "High Price": 10806.41,
+    "Low Price": 10680.65,
+    "Volume": 1217656320
+  },
+  {
+    "Date": "26-Feb-2026",
+    "Open Price": 10806.37,
+    "Close Price": 10846.7,
+    "High Price": 10856.8,
+    "Low Price": 10770.78,
+    "Volume": 821951232
+  },
+  {
+    "Date": "27-Feb-2026",
+    "Open Price": 10846.87,
+    "Close Price": 10910.55,
+    "High Price": 10934.94,
+    "Low Price": 10845.5,
+    "Volume": 1508301312
+  },
+  {
+    "Date": "02-Mar-2026",
+    "Open Price": 10910.98,
+    "Close Price": 10780.11,
+    "High Price": 10910.98,
+    "Low Price": 10731.87,
+    "Volume": 0
+  },
+  {
+    "Date": "03-Mar-2026",
+    "Open Price": 10780.25,
+    "Close Price": 10484.13,
+    "High Price": 10780.25,
+    "Low Price": 10406.14,
+    "Volume": 0
+  },
+  {
+    "Date": "04-Mar-2026",
+    "Open Price": 10483.91,
+    "Close Price": 10567.65,
+    "High Price": 10588.8,
+    "Low Price": 10443.49,
+    "Volume": 0
+  },
+  {
+    "Date": "05-Mar-2026",
+    "Open Price": 10567.72,
+    "Close Price": 10413.94,
+    "High Price": 10636.06,
+    "Low Price": 10402.03,
+    "Volume": 0
+  },
+  {
+    "Date": "06-Mar-2026",
+    "Open Price": 10413.64,
+    "Close Price": 10284.75,
+    "High Price": 10481.05,
+    "Low Price": 10234.52,
+    "Volume": 0
+  },
+  {
+    "Date": "09-Mar-2026",
+    "Open Price": 10284.96,
+    "Close Price": 10249.52,
+    "High Price": 10284.96,
+    "Low Price": 10081.98,
+    "Volume": 0
+  },
+  {
+    "Date": "10-Mar-2026",
+    "Open Price": 10249.17,
+    "Close Price": 10412.24,
+    "High Price": 10447.53,
+    "Low Price": 10235.36,
+    "Volume": 0
+  },
+  {
+    "Date": "11-Mar-2026",
+    "Open Price": 10412.32,
+    "Close Price": 10353.77,
+    "High Price": 10412.32,
+    "Low Price": 10293.8,
+    "Volume": 0
+  },
+  {
+    "Date": "12-Mar-2026",
+    "Open Price": 10353.81,
+    "Close Price": 10305.15,
+    "High Price": 10355.26,
+    "Low Price": 10258.43,
+    "Volume": 0
+  },
+  {
+    "Date": "13-Mar-2026",
+    "Open Price": 10305.48,
+    "Close Price": 10261.15,
+    "High Price": 10367.36,
+    "Low Price": 10200.21,
+    "Volume": 0
+  },
+  {
+    "Date": "16-Mar-2026",
+    "Open Price": 10261.1,
+    "Close Price": 10317.69,
+    "High Price": 10376.48,
+    "Low Price": 10255.34,
+    "Volume": 0
+  },
+  {
+    "Date": "17-Mar-2026",
+    "Open Price": 10317.63,
+    "Close Price": 10403.6,
+    "High Price": 10436.09,
+    "Low Price": 10317.63,
+    "Volume": 0
+  },
+  {
+    "Date": "18-Mar-2026",
+    "Open Price": 10403.54,
+    "Close Price": 10305.29,
+    "High Price": 10447.7,
+    "Low Price": 10279.06,
+    "Volume": 0
+  },
+  {
+    "Date": "19-Mar-2026",
+    "Open Price": 10305.61,
+    "Close Price": 10063.5,
+    "High Price": 10305.61,
+    "Low Price": 9997.41,
+    "Volume": 0
+  },
+  {
+    "Date": "20-Mar-2026",
+    "Open Price": 10063.25,
+    "Close Price": 9918.33,
+    "High Price": 10127.56,
+    "Low Price": 9915.7,
+    "Volume": 0
+  },
+  {
+    "Date": "23-Mar-2026",
+    "Open Price": 9918.48,
+    "Close Price": 9894.15,
+    "High Price": 10036.65,
+    "Low Price": 9670.46,
+    "Volume": 0
+  },
+  {
+    "Date": "24-Mar-2026",
+    "Open Price": 9893.96,
+    "Close Price": 9965.16,
+    "High Price": 9972.72,
+    "Low Price": 9839.2,
+    "Volume": 0
+  },
+  {
+    "Date": "25-Mar-2026",
+    "Open Price": 9965.17,
+    "Close Price": 10106.84,
+    "High Price": 10118.15,
+    "Low Price": 9965.17,
+    "Volume": 0
+  },
+  {
+    "Date": "26-Mar-2026",
+    "Open Price": 10106.99,
+    "Close Price": 9972.17,
+    "High Price": 10106.99,
+    "Low Price": 9956.27,
+    "Volume": 728121216
+  },
+  {
+    "Date": "27-Mar-2026",
+    "Open Price": 9972.3,
+    "Close Price": 9967.35,
+    "High Price": 10024.08,
+    "Low Price": 9883.15,
+    "Volume": 715539072
+  },
+  {
+    "Date": "30-Mar-2026",
+    "Open Price": 9967.47,
+    "Close Price": 10127.96,
+    "High Price": 10135.09,
+    "Low Price": 9958.05,
+    "Volume": 754162624
+  },
+  {
+    "Date": "31-Mar-2026",
+    "Open Price": 10127.9,
+    "Close Price": 10176.45,
+    "High Price": 10245.76,
+    "Low Price": 10118.65,
+    "Volume": 887987072
+  },
+  {
+    "Date": "01-Apr-2026",
+    "Open Price": 10174.94,
+    "Close Price": 10364.79,
+    "High Price": 10396.6,
+    "Low Price": 10169.3,
+    "Volume": 983741696
+  },
+  {
+    "Date": "02-Apr-2026",
+    "Open Price": 10366.34,
+    "Close Price": 10436.29,
+    "High Price": 10465.24,
+    "Low Price": 10287.9,
+    "Volume": 840677376
+  },
+  {
+    "Date": "07-Apr-2026",
+    "Open Price": 10436.2,
+    "Close Price": 10348.79,
+    "High Price": 10487.67,
+    "Low Price": 10330.88,
+    "Volume": 740353472
+  },
+  {
+    "Date": "08-Apr-2026",
+    "Open Price": 10345.93,
+    "Close Price": 10608.88,
+    "High Price": 10687.88,
+    "Low Price": 10345.93,
+    "Volume": 1137280640
+  },
+  {
+    "Date": "09-Apr-2026",
+    "Open Price": 10609.57,
+    "Close Price": 10603.48,
+    "High Price": 10643.61,
+    "Low Price": 10552.94,
+    "Volume": 618239168
+  },
+  {
+    "Date": "10-Apr-2026",
+    "Open Price": 10603.55,
+    "Close Price": 10600.53,
+    "High Price": 10657.56,
+    "Low Price": 10576.01,
+    "Volume": 827015424
+  },
+  {
+    "Date": "13-Apr-2026",
+    "Open Price": 10601.45,
+    "Close Price": 10582.96,
+    "High Price": 10607.69,
+    "Low Price": 10528.57,
+    "Volume": 671022976
+  },
+  {
+    "Date": "14-Apr-2026",
+    "Open Price": 10581.91,
+    "Close Price": 10609.06,
+    "High Price": 10630.39,
+    "Low Price": 10569.81,
+    "Volume": 744848384
+  },
+  {
+    "Date": "15-Apr-2026",
+    "Open Price": 10609.21,
+    "Close Price": 10559.58,
+    "High Price": 10640,
+    "Low Price": 10559.58,
+    "Volume": 750510592
+  },
+  {
+    "Date": "16-Apr-2026",
+    "Open Price": 10559.58,
+    "Close Price": 10589.99,
+    "High Price": 10645.9,
+    "Low Price": 10555.53,
+    "Volume": 588068608
+  },
+  {
+    "Date": "17-Apr-2026",
+    "Open Price": 10590.35,
+    "Close Price": 10667.63,
+    "High Price": 10667.63,
+    "Low Price": 10548.87,
+    "Volume": 866391168
+  },
+  {
+    "Date": "20-Apr-2026",
+    "Open Price": 10668.44,
+    "Close Price": 10609.08,
+    "High Price": 10683.65,
+    "Low Price": 10583.17,
+    "Volume": 0
+  },
+  {
+    "Date": "21-Apr-2026",
+    "Open Price": 10609.37,
+    "Close Price": 10498.09,
+    "High Price": 10634.96,
+    "Low Price": 10487.85,
+    "Volume": 0
+  },
+  {
+    "Date": "22-Apr-2026",
+    "Open Price": 10497.92,
+    "Close Price": 10476.46,
+    "High Price": 10523.17,
+    "Low Price": 10468.03,
+    "Volume": 755164736
+  },
+  {
+    "Date": "23-Apr-2026",
+    "Open Price": 10476.75,
+    "Close Price": 10457.01,
+    "High Price": 10477.15,
+    "Low Price": 10361.45,
+    "Volume": 680220928
+  },
+  {
+    "Date": "24-Apr-2026",
+    "Open Price": 10457.68,
+    "Close Price": 10379.08,
+    "High Price": 10462.48,
+    "Low Price": 10365.93,
+    "Volume": 563844480
+  },
+  {
+    "Date": "27-Apr-2026",
+    "Open Price": 10378.53,
+    "Close Price": 10321.09,
+    "High Price": 10410.79,
+    "Low Price": 10318.32,
+    "Volume": 0
+  },
+  {
+    "Date": "28-Apr-2026",
+    "Open Price": 10321.8,
+    "Close Price": 10332.79,
+    "High Price": 10381.92,
+    "Low Price": 10288.71,
+    "Volume": 647840384
+  },
+  {
+    "Date": "29-Apr-2026",
+    "Open Price": 10332.9,
+    "Close Price": 10213.11,
+    "High Price": 10338.25,
+    "Low Price": 10188.66,
+    "Volume": 743371904
+  },
+  {
+    "Date": "30-Apr-2026",
+    "Open Price": 10213.32,
+    "Close Price": 10378.82,
+    "High Price": 10387.55,
+    "Low Price": 10205.15,
+    "Volume": 958203136
+  },
+  {
+    "Date": "01-May-2026",
+    "Open Price": 10378.35,
+    "Close Price": 10363.93,
+    "High Price": 10378.48,
+    "Low Price": 10294.2,
+    "Volume": 0
+  },
+  {
+    "Date": "05-May-2026",
+    "Open Price": 10365.38,
+    "Close Price": 10219.11,
+    "High Price": 10365.38,
+    "Low Price": 10164.26,
+    "Volume": 0
+  },
+  {
+    "Date": "06-May-2026",
+    "Open Price": 10218.76,
+    "Close Price": 10438.66,
+    "High Price": 10488.2,
+    "Low Price": 10218.76,
+    "Volume": 940738240
+  },
+  {
+    "Date": "07-May-2026",
+    "Open Price": 10438.62,
+    "Close Price": 10276.95,
+    "High Price": 10440.55,
+    "Low Price": 10276.95,
+    "Volume": 888997568
+  },
+  {
+    "Date": "08-May-2026",
+    "Open Price": 10277.4,
+    "Close Price": 10233.07,
+    "High Price": 10278.73,
+    "Low Price": 10184.99,
+    "Volume": 675997248
+  },
+  {
+    "Date": "11-May-2026",
+    "Open Price": 10233.56,
+    "Close Price": 10269.43,
+    "High Price": 10286.57,
+    "Low Price": 10226.5,
+    "Volume": 811016640
+  },
+  {
+    "Date": "12-May-2026",
+    "Open Price": 10271.17,
+    "Close Price": 10265.32,
+    "High Price": 10271.17,
+    "Low Price": 10152.05,
+    "Volume": 1047283648
+  },
+  {
+    "Date": "13-May-2026",
+    "Open Price": 10264.91,
+    "Close Price": 10325.35,
+    "High Price": 10360.45,
+    "Low Price": 10240.39,
+    "Volume": 0
+  },
+  {
+    "Date": "14-May-2026",
+    "Open Price": 10325.17,
+    "Close Price": 10372.93,
+    "High Price": 10375.43,
+    "Low Price": 10310.16,
+    "Volume": 0
+  },
+  {
+    "Date": "15-May-2026",
+    "Open Price": 10375.39,
+    "Close Price": 10195.37,
+    "High Price": 10375.73,
+    "Low Price": 10163.56,
+    "Volume": 0
+  },
+  {
+    "Date": "18-May-2026",
+    "Open Price": 10194.75,
+    "Close Price": 10323.75,
+    "High Price": 10337.38,
+    "Low Price": 10151.45,
+    "Volume": 0
+  },
+  {
+    "Date": "19-May-2026",
+    "Open Price": 10323.69,
+    "Close Price": 10330.55,
+    "High Price": 10408.36,
+    "Low Price": 10315.38,
+    "Volume": 0
+  },
+  {
+    "Date": "20-May-2026",
+    "Open Price": 10330.7,
+    "Close Price": 10432.34,
+    "High Price": 10458.3,
+    "Low Price": 10279.07,
+    "Volume": 0
+  },
+  {
+    "Date": "21-May-2026",
+    "Open Price": 10432.54,
+    "Close Price": 10443.47,
+    "High Price": 10471.64,
+    "Low Price": 10353.47,
+    "Volume": 0
+  },
+  {
+    "Date": "22-May-2026",
+    "Open Price": 10443.11,
+    "Close Price": 10466.26,
+    "High Price": 10497.22,
+    "Low Price": 10435.53,
+    "Volume": 0
+  },
+  {
+    "Date": "26-May-2026",
+    "Open Price": 10465.62,
+    "Close Price": 10491.39,
+    "High Price": 10557.16,
+    "Low Price": 10461.1,
+    "Volume": 0
+  },
+  {
+    "Date": "27-May-2026",
+    "Open Price": 10491.22,
+    "Close Price": 10505.01,
+    "High Price": 10522.3,
+    "Low Price": 10462.06,
+    "Volume": 0
+  },
+  {
+    "Date": "28-May-2026",
+    "Open Price": 10505.38,
+    "Close Price": 10425.96,
+    "High Price": 10505.38,
+    "Low Price": 10381.21,
+    "Volume": 0
+  },
+  {
+    "Date": "29-May-2026",
+    "Open Price": 10425.85,
+    "Close Price": 10409.28,
+    "High Price": 10462.22,
+    "Low Price": 10409.28,
+    "Volume": 0
+  },
+  {
+    "Date": "01-Jun-2026",
+    "Open Price": 10409.34,
+    "Close Price": 10338.95,
+    "High Price": 10409.77,
+    "Low Price": 10288.9,
+    "Volume": 0
+  }
+]

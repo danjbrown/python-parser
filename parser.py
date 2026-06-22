@@ -4,10 +4,14 @@ class Parser:
     # constructor
     def __init__(self):
         self.source_filename=''
+        self.source_type='csv'
 
-    def parse_csv(self):
-
-        df = pd.read_csv(self.source_filename, parse_dates=["Date"]).convert_dtypes()
+    def parse(self):
+        
+        if self.source_type == "csv":
+            df = pd.read_csv(self.source_filename, parse_dates=["Date"]).convert_dtypes()
+        else:
+            df = pd.read_json(self.source_filename).convert_dtypes()
 
         print("First 10 rows:")
         print(df.head(10))
@@ -27,7 +31,7 @@ class Parser:
         # drop null values in original data frame
         # df.dropna(inplace = True)
 
-        print("Columns:")
+        print("Renamed columns:")
         print(df.columns)
 
         print("Check for missing data:")
@@ -36,16 +40,24 @@ class Parser:
         print("Print location of missing data:")
         print(df.loc[df.isna().any(axis="columns")])
 
-        print("Adding missing data...")
+        print("Adding missing low price using mean low price...")
         lowPriceMean = df["low_price"].mean()
-        df.loc[5, 'low_price'] = lowPriceMean
+        # df.loc[5, 'low_price'] = round(lowPriceMean, 2)
+        self.custom_fillna(df, 'low_price', round(lowPriceMean, 2))
 
         # Remove duplicates
-        df.loc[df.duplicated(keep=False)]
+        # df.loc[df.duplicated(keep=False)]
 
         df.drop_duplicates(inplace = True)
 
         print("First 10 corrected rows:")
         print(df.head(10))
-
+    
         return df
+    
+    def custom_fillna(self, df, field, fillValue):
+        s = df[field];
+        for i in range(len(s)):
+            if pd.isna(s[i]):
+                s[i] = fillValue
+                df.loc[5, 'low_price'] = fillValue;

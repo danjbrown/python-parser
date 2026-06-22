@@ -1,10 +1,15 @@
 import parser
 import pandas as pd
 
-csvParser = parser.Parser()
-csvParser.source_filename = "prices.csv"
-data = csvParser.parse_csv()
+dataParser = parser.Parser()
+dataParser.source_type = "json"
 
-data.to_csv("prices-cleaned.csv", index=False)
-
-data = pd.read_csv("prices-cleaned.csv").convert_dtypes()
+if dataParser.source_type == "csv":
+    dataParser.source_filename = "prices.csv"
+    data = dataParser.parse()
+    data.to_csv("prices-cleaned.csv", index=False)
+else:
+    dataParser.source_filename = "prices.json"
+    data = dataParser.parse()
+    data['date'] = data['date'].dt.strftime('%Y-%m-%d')
+    data.to_json("prices-cleaned.json", orient='records')

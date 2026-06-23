@@ -56,7 +56,7 @@ class Parser:
         return df
     
     def custom_fillna(self, df, column_name, fill_value):
-        s = df[column_name];
+        s = df[column_name]
         for i in range(len(s)):
             if pd.isna(s[i]):
-                df.loc[5, 'low_price'] = fill_value;
+                df.loc[i, column_name] = fill_value

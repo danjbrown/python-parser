@@ -1,5 +1,4 @@
 import parser
-import pandas as pd
 
 dataParser = parser.Parser()
 dataParser.source_type = "csv"

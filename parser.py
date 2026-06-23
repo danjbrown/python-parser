@@ -16,6 +16,7 @@ class Parser:
         print("First 10 rows:")
         print(df.head(10))
 
+        # rename columns
         new_column_names = {
             "Date": "date",
             "Open Price": "open_price",
@@ -24,8 +25,6 @@ class Parser:
             "Low Price": "low_price",
             "Volume": "volume",
         }
-
-        # rename columns
         df.rename(columns=new_column_names, inplace = True)
 
         # drop null values in original data frame
@@ -37,18 +36,18 @@ class Parser:
         print("Check for missing data:")
         print(df.info())
 
-        print("Print location of missing data:")
+        print("Missing data:")
         print(df.loc[df.isna().any(axis="columns")])
 
-        print("Adding missing low price using mean low price...")
+        print("Adding missing low prices using mean low price...")
         mean_low_price = df["low_price"].mean()
-        # df.loc[5, 'low_price'] = round(mean_low_price, 2)
         self.custom_fillna(df, 'low_price', round(mean_low_price, 2))
 
         # Remove duplicates
-        # df.loc[df.duplicated(keep=False)]
-
         df.drop_duplicates(inplace = True)
+
+        print("Statistics:")
+        print(df.describe())
 
         print("First 10 corrected rows:")
         print(df.head(10))
